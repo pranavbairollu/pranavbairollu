@@ -1,11 +1,20 @@
 # Hi there, I'm Pranav Bairollu! 👋
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&vCenter=true&width=435&lines=Android+Developer;Final+Year+CS+Student;Building+ForeverUs" alt="Typing SVG" />
+</div>
+
 I'm a **Final Year BSc Computer Science Student** and a passionate **Android Developer** from India. I love building mobile applications that solve real-world problems and create lasting memories.
 
 - 🔭 I’m currently working on **ForeverUs**, a relationship milestone and memory keeping app.
 - 🌱 I’m currently learning **Advanced Android Architecture** and **AI Integration**.
 - 👯 I’m looking to collaborate on open-source Android projects.
-- 📫 How to reach me: [pranavbairollu@gmail.com](mailto:pranavbairollu@gmail.com)
+
+<div align="left">
+  <a href="mailto:pranavbairollu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 ---
 
@@ -27,16 +36,9 @@ I'm a **Final Year BSc Computer Science Student** and a passionate **Android Dev
 
 ---
 
-### 📊 GitHub Stats
-
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranavbairollu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbairollu&layout=compact&theme=radical)
-
----
-
 ### 🚀 Projects
 
-#### [ForeverUs](https://github.com/pranavbairollu/ForeverUs)
+#### ForeverUs
 *A dedicated space for couples to store memories, track milestones, and celebrate their journey.*
 - **Features**: Joint timeline, photo gallery with cloud sync, milestone tracking, and AI-powered features.
 - **Tech**: Kotlin, Firebase Auth/Firestore, Room, WorkManager.
