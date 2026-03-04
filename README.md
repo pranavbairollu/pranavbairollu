@@ -48,12 +48,3 @@ I'm a **Final Year BSc Computer Science Student** and an aspiring **Android Deve
 - **Features**: Interactive dual-timeline, AI-enhanced Story Editor, YouTube API shared playlists, Adventure Bucket List, and PDF Exporting.
 - **Tech Stack**: Java, MVVM, Firebase Auth/Firestore, Cloudinary, Google Gemini AI.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavbairollu&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbairollu&layout=compact&theme=radical" alt="Top Languages" />
-</div>
