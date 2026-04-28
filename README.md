@@ -9,7 +9,7 @@ I'm a **Final Year BSc Computer Science Student** and an aspiring **Android Deve
 - 🔭 I’m currently building **[ForeverUs](https://github.com/pranavbairollu/ForeverUs)**, a feature-rich relationship milestone and memory-keeping app.
 - 🌱 I’m currently deepening my knowledge in **Advanced Android Architecture (MVVM)** and **Generative AI Integration**.
 - 👯 I’m open to collaborating on open-source Android projects.
-- 💬 Ask me about **Java, Android UI Design, or Firebase**.
+- 💬 Ask me about **Java, Kotlin, UI Design, or Firebase**.
 
 <div align="left">
   <a href="mailto:pranavbairollu@gmail.com">
@@ -34,17 +34,26 @@ I'm a **Final Year BSc Computer Science Student** and an aspiring **Android Deve
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 **Libraries & Integrations:**
-- **Architecture**: MVVM, ViewBinding
+- **Architecture**: MVVM, Clean Architecture, ViewBinding, Jetpack Compose
 - **Data & Backend**: Room Database, Firebase (Auth & Firestore), Cloudinary
-- **AI & Media**: Google Gemini AI, ExoPlayer, YouTube Player API
-- **Design**: Material Design, Konfetti Animations, Dynamic Theming
+- **AI & Media**: Google Gemini AI, ExoPlayer, YouTube Player API, SpeechRecognizer API
+- **Design**: Material Design (M3), Konfetti Animations, Dynamic Theming
 
 ---
 
-### 🚀 Highlighted Project
+### 🚀 Highlighted Projects
 
 #### 💖 [ForeverUs](https://github.com/pranavbairollu/ForeverUs) *(Proprietary)*
 *A dedicated, secure digital sanctuary for couples to store memories, track milestones, and celebrate their journey together.*
 - **Features**: Interactive dual-timeline, AI-enhanced Story Editor, YouTube API shared playlists, Adventure Bucket List, and PDF Exporting.
 - **Tech Stack**: Java, MVVM, Firebase Auth/Firestore, Cloudinary, Google Gemini AI.
 
+#### 🗡️ [SoloLeveling](https://github.com/pranavbairollu/SoloLeveling)
+*A powerful, gamified productivity and lifestyle tracker that turns daily tasks, focus sessions, and big goals into a high-stakes RPG experience.*
+- **Features**: RPG stat progression, strict "Gates" for focus sessions, voice-activated "Shadow Extraction", and Boss Raids.
+- **Tech Stack**: Kotlin, MVVM, Clean Architecture, Room Database, SpeechRecognizer API.
+
+#### 🛡️ [IronDiary](https://github.com/pranavbairollu/IronDiary)
+*A robust, offline-first productivity and academic tracking application.*
+- **Features**: Smart task management, interactive calendar, academic analytics with custom zoomable graphs, and bulletproof background sync.
+- **Tech Stack**: Kotlin, Jetpack Compose, Room Database, Firebase Firestore, Coroutines & Flow, WorkManager, Hilt.
