@@ -1,13 +1,13 @@
 # Hi there, I'm Pranav Bairollu! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&vCenter=true&width=435&lines=Android+Developer;Final+Year+CS+Student;Building+ForeverUs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&vCenter=true&width=435&lines=Android+Developer;Final+Year+CS+Student;Building+FitSathi;Building+ForeverUs" alt="Typing SVG" />
 </div>
 
 I'm a **Final Year BSc Computer Science Student** and an aspiring **Android Developer** from India. I love building mobile applications that solve real-world problems, utilize clean architecture, and create lasting digital experiences.
 
-- 🔭 I’m currently building **[ForeverUs](https://github.com/pranavbairollu/ForeverUs)**, a feature-rich relationship milestone and memory-keeping app.
-- 🌱 I’m currently deepening my knowledge in **Advanced Android Architecture (MVVM)** and **Generative AI Integration**.
+- 🔭 I’m currently building **[FitSathi](https://github.com/pranavbairollu/FitSathi)**, a privacy-focused fitness companion, and **[ForeverUs](https://github.com/pranavbairollu/ForeverUs)**, a relationship milestone app.
+- 🌱 I’m currently deepening my knowledge in **Advanced Android Architecture (MVVM/MVI)** and **Generative AI Integration**.
 - 👯 I’m open to collaborating on open-source Android projects.
 - 💬 Ask me about **Java, Kotlin, UI Design, or Firebase**.
 
@@ -15,10 +15,9 @@ I'm a **Final Year BSc Computer Science Student** and an aspiring **Android Deve
   <a href="mailto:pranavbairollu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <!-- Add your LinkedIn here if you have one! -->
-  <!-- <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
+  </a>
 </div>
 
 ---
@@ -32,16 +31,22 @@ I'm a **Final Year BSc Computer Science Student** and an aspiring **Android Deve
 **Android Development:**
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Libraries & Integrations:**
-- **Architecture**: MVVM, Clean Architecture, ViewBinding, Jetpack Compose
-- **Data & Backend**: Room Database, Firebase (Auth & Firestore), Cloudinary
-- **AI & Media**: Google Gemini AI, ExoPlayer, YouTube Player API, SpeechRecognizer API
-- **Design**: Material Design (M3), Konfetti Animations, Dynamic Theming
+- **Architecture**: MVVM, Clean Architecture, Room Database, ViewBinding, Jetpack Compose
+- **Data & Security**: EncryptedSharedPreferences (AES-256), WorkManager, Cloudinary, Hilt
+- **Media & Vision**: Google ML Kit (Barcode Scanning), ExoPlayer, YouTube Player API, SpeechRecognizer API
+- **Design**: Material Design 3 (M3), MPAndroidChart, Konfetti Animations, Dynamic Theming
 
 ---
 
 ### 🚀 Highlighted Projects
+
+#### 🥗 [FitSathi](https://github.com/pranavbairollu/FitSathi)
+*A robust, privacy-first health and fitness companion built for precision activity tracking and detailed nutritional logging.*
+- **Features**: Kinetic Engine for reliable foreground step tracking, macro-tracking with barcode scanning (ML Kit), adaptive workout generation, and secure AES-256 encrypted local storage.
+- **Tech Stack**: Java, Room Database, Jetpack Security, Firebase, Google ML Kit, Material 3.
 
 #### 💖 [ForeverUs](https://github.com/pranavbairollu/ForeverUs) *(Proprietary)*
 *A dedicated, secure digital sanctuary for couples to store memories, track milestones, and celebrate their journey together.*
